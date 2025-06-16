@@ -26,7 +26,7 @@ Sim, é um **arquivo `.ahk`**, então você precisa ter o [AutoHotkey](https://w
 ## ✅ Como usar?
 
 1. Baixe e instale o [AutoHotkey](https://www.autohotkey.com/)
-2. Dê dois cliques no arquivo `hotkey.ahk`
+2. Dê dois cliques no arquivo `macro.ahk`
 3. Abra seu Tibia/OTPokémon favorito e... **GLHF!** 🎯
 
 ---
