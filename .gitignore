@@ -1,0 +1,11 @@
+# cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários do sistema
+*.tmp
+*.temp
+
+
+
